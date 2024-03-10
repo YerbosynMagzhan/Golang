@@ -15,7 +15,7 @@ All of us are interested in what games our friends have. This project allows you
 ### HealthCheck
 
 ```
-> - GET /health-check
+ - GET /health-check
 ```
 
 ### Games
